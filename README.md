@@ -2,8 +2,8 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/96586932/210133985-21c774bc-f69c-4cbb-9115-fd85853bfd8a.png"></h1>
 
 <h2><p align="center">
-  <a href="https://www">Website</a> •
-  <a href="https://">LinkedIn</a>
+  <a href="https://www">Website(Under Construction)</a> •
+  <a href="https://www.linkedin.com/in/ktmn/">LinkedIn</a>
 </p></h2>
 <!--About Section-->
 <img align="right" src="https://user-images.githubusercontent.com/96586932/210134145-93da8988-0e1a-483b-9358-682fe3706614.png">
